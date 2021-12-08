@@ -1,53 +1,36 @@
 <template>
   <section class="home">
     
+    <div class="wrap">
+          
       <div class="">
-        <div class="">
-          
-          <div class="">
-            <img src="assets/images/marine/ancre.png" >
-          </div>
-          <div class="">
-            <img src="assets/images/marine/poisson.png" >
-          </div>
-          <div class="">
-            
-              <img src="assets/images/marine/etoile.png" >
-          
-          </div>
-          <div class="">
-           
-              <img src="assets/images/marine/poisson2.png" >
-            
-          </div>
-    
-          
-          <div class="">
-            <img src="assets/images/marine/longuevue.png" >
-          </div>
-    
-          <div class="">
-            <img src="assets/images/marine/lanterne.png" >
-          </div>
-    
-          <div class="">
-           
-              <img src="assets/images/marine/carte.png" >
-           
-          </div>
-          <div class="">
-            
-              <img src="assets/images/marine/mouette.png" >
-            
-          </div>
-          <div class="">
-            
-              <img src="assets/images/marine/gouvernail.png">
-         
-          </div>
-        </div>
-    
-    
+        <img src="../assets/images/marine/ancre.png" >
+      </div>
+      <div class="">
+        <img src="../assets/images/marine/poisson.png" >
+      </div>
+      <div class="">
+        <img src="../assets/images/marine/etoile.png" >
+      </div>
+      <div class="">
+        <img src="../assets/images/marine/poisson2.png" >
+      </div>
+      <div class="">
+        <img src="../assets/images/marine/longuevue.png" >
+      </div>
+      <div class="">
+        <img src="../assets/images/marine/lanterne.png" >
+      </div>
+      <div class="">
+        <img src="../assets/images/marine/carte.png" >
+      </div>
+      <div class="">
+        <img src="../assets/images/marine/mouette.png" >
+      </div>
+      <div class="">
+          <img src="../assets/images/marine/gouvernail.png">
+      </div>
+
         <div class="">
           <a href="" class="">Réserver</a>
           <a class="">01 02 03 04 05</a>
@@ -70,8 +53,7 @@
             </div>
           </div>
         </div>
-  
-    
+
           <div class="">  
             <a href="" class="">À emporter</a>
           </div>

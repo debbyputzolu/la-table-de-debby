@@ -1,0 +1,15 @@
+.home {
+    background-image: url(../images/background-encre.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.wrap {
+    position: relative;
+    height: 100vh;
+    min-height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
